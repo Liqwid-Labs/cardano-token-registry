@@ -1,0 +1,43 @@
+{
+    "subject": "d01b99b0e5dc1536b7ea97cbe503510734c5432a4d944a96199194e7",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Liqwid LPM3 Batch",
+        "signatures": [
+            {
+                "signature": "b29e52e845271f723f680165ba662d60643e5eb751681274de804e24f1d282766f19abe25d9aa6bdfbb0a606d026f1e587d06c8d8062eeb81755137772a31709",
+                "publicKey": "b57ab6cd98b5141f20fd204905c162a5b3ff9f9e418fe0aade2390f4ab5a1cc5"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "LPM3BATCH",
+        "signatures": [
+            {
+                "signature": "2c3f2e023cfe13fc3ed7ba1d5a1539440507c6b5aad77bf2ea981572d617a5c9bdab789f7115fbdb6a2aab466902ebc776002bd47a535aa6351dafc54e83bc0b",
+                "publicKey": "b57ab6cd98b5141f20fd204905c162a5b3ff9f9e418fe0aade2390f4ab5a1cc5"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "2165a093ab7085a8e021796eba0e30340487d6042c2f47b441e238205dd4308e9407e622c89ee828ee96f4ae67d7c014610ccd83209e2d31b4fbce0a8df4ae00",
+                "publicKey": "b57ab6cd98b5141f20fd204905c162a5b3ff9f9e418fe0aade2390f4ab5a1cc5"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid LPM3 market",
+        "signatures": [
+            {
+                "signature": "b99a0ed45ad5fe647f87dbe6152e493007b8201eb8d2fed5f7deea88ff178e1f1b12cb6601b0ac6acf8c4d3b3269d3fa9cb711954887881bc1dcf309a9c2790a",
+                "publicKey": "b57ab6cd98b5141f20fd204905c162a5b3ff9f9e418fe0aade2390f4ab5a1cc5"
+            }
+        ]
+    }
+}
