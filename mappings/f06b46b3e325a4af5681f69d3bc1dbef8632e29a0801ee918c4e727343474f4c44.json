@@ -1,0 +1,63 @@
+{
+    "subject": "f06b46b3e325a4af5681f69d3bc1dbef8632e29a0801ee918c4e727343474f4c44",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://cardanogold.ch",
+        "signatures": [
+            {
+                "signature": "36d32f5361ac2b689a4fee19202571fbb3ba04cfe643f5789a59d36bf68eb73e401ba0b057fc94d262f00039ade6cc45c0133cb55b044e30a76205082bb7e80e",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "CGOLD",
+        "signatures": [
+            {
+                "signature": "0065c407dd87f44c57b68e5cdb609e9a8470fa522ecf32ee60a94f8be930b3b69167996adee3f9d4090a12f9e9a6eab0dfa8afcd66b7adc0b76972e991810204",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "CGOLD",
+        "signatures": [
+            {
+                "signature": "ceb7d84e107be9ee4f3942940aac06d73bf30ce25269a811f2d21a9f461fc6f58db01899dcbd63f2d37e83f1ce2c64c0e23eabbb4368732e751d323f3ff00106",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "8744dfa54b4c4cd0393603c18a4a983febe78e3d0d94379a8f7659d7d5ac7dfb2282433fa83a88aa5778b29f31991f6cb755b0c7bb6a2c652903af9cd9a0ef02",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "20d8958731930598e8d19d61d98e63d28c34449104c97bbdc3913252046b73c9dbd876eeacf43afa193d032afea1dff706e41b6bc5b3df4500fd2186690efc0b",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "CGOLD is a Digital Token, Backed by Physical Gold. It's a blockchain-based token, fully backed by real gold, securely stored and independently verifiable. Built exclusively on the Cardano blockchain, CGOLD brings the timeless value of gold into a modern, decentralized financial.",
+        "signatures": [
+            {
+                "signature": "af99a89491d3b151969bb4f89392bf05aaabc0fad84d2740c0d5429238e80f86d7cd34db478e692a11f38c6878b159e71293155bc419ad753cf97b6702d9ab05",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    }
+}
